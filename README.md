@@ -9,40 +9,6 @@ showing where the roadkill was and the name of it. It also
 features a list that shows all of the roadkills in the order
 they were entered.
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/krushil1/roadkill-mapper.git
-```
-
-Go to the project directory
-
-```bash
-  cd roadkill-mapper
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Enter necessary tokens and URLS in the config file and map.js
-
-```bash
-  config.env & map.js
-```
-
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Tech Stack
 
 **Client:** HTML, Bootstrap, MapBox, MongoDB
